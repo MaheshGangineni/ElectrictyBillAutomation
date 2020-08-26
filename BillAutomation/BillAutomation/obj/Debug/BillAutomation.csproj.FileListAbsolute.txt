@@ -1,0 +1,7 @@
+C:\Users\Mahesh Gangineni\source\repos\BillAutomation\BillAutomation\bin\Debug\BillAutomation.exe.config
+C:\Users\Mahesh Gangineni\source\repos\BillAutomation\BillAutomation\bin\Debug\BillAutomation.exe
+C:\Users\Mahesh Gangineni\source\repos\BillAutomation\BillAutomation\bin\Debug\BillAutomation.pdb
+C:\Users\Mahesh Gangineni\source\repos\BillAutomation\BillAutomation\obj\Debug\BillAutomation.csprojAssemblyReference.cache
+C:\Users\Mahesh Gangineni\source\repos\BillAutomation\BillAutomation\obj\Debug\BillAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Mahesh Gangineni\source\repos\BillAutomation\BillAutomation\obj\Debug\BillAutomation.exe
+C:\Users\Mahesh Gangineni\source\repos\BillAutomation\BillAutomation\obj\Debug\BillAutomation.pdb
